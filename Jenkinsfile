@@ -10,7 +10,7 @@ agent any
           def gitbranch = "$GIT_BRANCH"
           echo "${gitbranch}"
     
-           bat 'mvn clean install'
+           bat 'mvn clean install -X'
            
            
            
