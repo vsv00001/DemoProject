@@ -56,7 +56,7 @@
         <id>central</id>
         <url>http://localhost:8081/artifactory/phoenix-local</url>
         <snapshots>
-            <enabled>false</enabled>
+            <enabled>true</enabled>
         </snapshots>
     </repository>
     <repository>
